@@ -1,0 +1,7 @@
+testcase5:_double_edge+disjoint 8 6
+E 1 2 2
+E 1 2 3
+E 1 5 4
+? 2 6 6
+E 2 7 1 3 3 3 3 33 
+e 3 4 203
